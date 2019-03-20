@@ -4,3 +4,7 @@
 /META-INF
 *.iml
 /.idea
+.project
+.classpath
+/.settings
+
