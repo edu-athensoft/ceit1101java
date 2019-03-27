@@ -5,7 +5,7 @@ package com.athensoft.session1.basics.activity19;
  * @author Athens
  *
  */
-public class MyStringBuilder {
+public class MyStringBuffer {
 
 	public static void main(String[] args) {
 		
